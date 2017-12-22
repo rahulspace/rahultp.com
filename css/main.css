@@ -52,3 +52,12 @@ p {
     padding: 8px;
     outline: none !important;
 }
+
+.social img {
+    width: 20px;
+    margin: 0 2px;
+}
+
+.social {
+    margin-top: 30px;
+}
