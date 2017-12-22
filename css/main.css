@@ -1,3 +1,43 @@
 
 /*Google font*/
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1f1f1;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 13px;
+    margin-top:  0;
+    margin-bottom:  25px;
+}
+
+p {
+    font-size: 11px;
+}
+
+h1,
+h2,
+p {
+    color: #333;
+}
+
+.about img {
+    width: 80px;
+    border-radius: 50px;
+}
+
+.well {
+    background-color: #fff;
+    border-color: #ddd;
+}
