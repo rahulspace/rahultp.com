@@ -27,6 +27,8 @@ p {
     margin-bottom: 25px;
 }
 
+a { text-decoration: none !important }
+
 h1,
 h2,
 p {
