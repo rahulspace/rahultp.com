@@ -1,0 +1,19 @@
+{
+  "name": "rahultp.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulspace/rahultp.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulspace/rahultp.com/issues"
+  },
+  "homepage": "https://github.com/rahulspace/rahultp.com#readme"
+}
